@@ -1,0 +1,12 @@
+name: logout-connect
+title: logout-connect
+username: cole
+account: cole
+server: cole
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 3734
+bundleId: 32016
+url: https://colorado.rstudio.com/rsc/logout-connect/
+when: 1574823214.92967
+asMultiple: FALSE
+asStatic: FALSE
