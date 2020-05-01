@@ -5,8 +5,8 @@ account: cole
 server: cole
 hostUrl: https://colorado.rstudio.com/rsc/__api__
 appId: 3734
-bundleId: 32016
+bundleId: 37117
 url: https://colorado.rstudio.com/rsc/logout-connect/
-when: 1574823214.92967
+when: 1588365299.16673
 asMultiple: FALSE
 asStatic: FALSE
